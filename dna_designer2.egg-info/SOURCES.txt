@@ -1,0 +1,9 @@
+README.md
+setup.py
+dna_designer2/__init__.py
+dna_designer2/codons.py
+dna_designer2/dev.py
+dna_designer2.egg-info/PKG-INFO
+dna_designer2.egg-info/SOURCES.txt
+dna_designer2.egg-info/dependency_links.txt
+dna_designer2.egg-info/top_level.txt
